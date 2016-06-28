@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OnlineStoreHitsan:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OnlineStoreHitsan.war">
+      <element id="artifact" artifact-name="OnlineStoreHitsan:war exploded" />
+    </root>
+  </artifact>
+</component>
